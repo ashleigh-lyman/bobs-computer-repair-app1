@@ -3,7 +3,7 @@
     "version": 1,
     "newProjectRoot": "projects",
     "projects": {
-        "bobs-computer-repair-app11": {
+        "bobs-computer-repair-app1": {
             "projectType": "application",
             "schematics": {},
             "root": "",
@@ -67,7 +67,7 @@
                     },
                     "configurations": {
                         "production": {
-                            "browserTarget": "bobs-computer-repair-app11:build:production"
+                            "browserTarget": "bobs-computer-repair-app1:build:production"
                         }
                     }
                 },
