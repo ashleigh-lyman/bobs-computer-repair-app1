@@ -1,0 +1,16 @@
+/* CSS for index.html page */
+
+html,
+body {}
+
+body {
+    margin: 0;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+    background-color: #6B7A8F;
+}
+
+
+/* End of CSS page */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
